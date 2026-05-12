@@ -1,0 +1,20 @@
+{
+  "endpoints": [
+    {
+      "name": "Get Post",
+      "url": "https://jsonplaceholder.typicode.com/posts/1"
+    },
+    {
+      "name": "Get Users",
+      "url": "https://jsonplaceholder.typicode.com/users"
+    },
+    {
+      "name": "Get Comments",
+      "url": "https://jsonplaceholder.typicode.com/comments"
+    },
+    {
+      "name": "Invalid URL",
+      "url": "https://jsonplaceholder.typicode.com/unknown"
+    }
+  ]
+}
