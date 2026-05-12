@@ -11,7 +11,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=flat-square)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=flat-square)
+## ⬇️ Download
 
+[![Download](https://img.shields.io/badge/Download-restping--1.0.0.jar-blue?style=for-the-badge)](https://github.com/Ashwanthjava/restPing/releases/download/version/restping-1.0.0.jar)
+> ✅ Works on Windows, Mac and Linux — requires Java 17 or above   
+> No installation needed — just download and run.
 ![restPing demo](restPing_demo.gif)
 
 </div>
