@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="restPing logo" width="160"/>
+<img src="restPing_logo.png" alt="restPing logo" width="160"/>
 
 # restPing
 
